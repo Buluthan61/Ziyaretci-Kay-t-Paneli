@@ -13,8 +13,6 @@ Kurumsal ofisler, fabrikalar, okullar veya kamu kurumları için geliştirilen b
 🔹 Günlük / dünkü toplam sayılar, çıkış yapmayanlar gibi anlık istatistik kutuları
 🔹 %100 açık kaynak kodlu — tüm geliştiricilere açık 🚀
 
-Bu sistemin kodlarına GitHub profilim üzerinden ulaşabilir ve isterseniz kendi projelerinize entegre edebilirsiniz. Kod yapısı sade, geliştirilmeye açık ve uyarlanabilir şekilde hazırlandı.
-
-💡 Yorumlarınızı, katkılarınızı ve önerilerinizi memnuniyetle bekliyorum!
+Bu sistemin isterseniz kendi projelerinize entegre edebilirsiniz. Kod yapısı sade, geliştirilmeye açık ve uyarlanabilir şekilde hazırlandı.
 
 #AçıkKaynak #PHP #ZiyaretçiTakipSistemi #WebDevelopment #Bootstrap5 #KodPaylaşımı #UIUX #VeriTakibi #GitHub #FullStackDeveloper #GirişÇıkışKontrol #WebUygulama #YerliYazılım #LinkedInTech
